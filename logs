@@ -1,0 +1,11 @@
+13:37:54.621 [main] INFO  api.test.UserTest - ==========Creation starts=================
+13:37:58.533 [main] INFO  api.test.UserTest - ==============creation END======================
+14:08:32.254 [main] INFO  api.test.UserTest - ==========Creation starts=================
+14:08:36.110 [main] INFO  api.test.UserTest - ==============creation END======================
+14:08:36.142 [main] INFO  api.test.UserTest - ====GET the user details==========================
+15:10:27.343 [main] INFO  api.test.UserTest2 - ==========Creation starts=================
+15:10:31.424 [main] INFO  api.test.UserTest2 - ==============creation END======================
+15:10:31.450 [main] INFO  api.test.UserTest2 - ====GET the user details==========================
+15:42:29.875 [main] INFO  api.test.UserTest2 - ==========Creation starts=================
+15:42:33.831 [main] INFO  api.test.UserTest2 - ==============creation END======================
+15:42:33.849 [main] INFO  api.test.UserTest2 - ====GET the user details==========================
